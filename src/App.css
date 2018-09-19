@@ -1,0 +1,51 @@
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  text-align: center;
+  background-color: #222;
+  height: 170px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  padding-top: 20px;
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.dropdown-item:hover{
+  color: white;
+  background-color: #6c757d;
+}
+
+.custom-btn{
+  font-size: 90%;
+  text-align: center;
+  cursor: pointer;
+  border-top: 1px solid #6c757d;
+  padding: 10px;
+  color: #6c757d;
+}
+
+.custom-btn:last-of-type{
+  border-bottom: 1px solid #6c757d;
+}
+
+.custom-btn:hover{
+  color: white;
+  background-color: #6c757d;
+}
+
+button {
+  cursor: pointer;
+}
+
+.disabled {
+  cursor: not-allowed;
+}
